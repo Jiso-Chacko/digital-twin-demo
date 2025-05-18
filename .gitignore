@@ -5,6 +5,7 @@
 [Bb]uild/
 [Bb]uilds/
 UserSettings/
+Logs/
 
 # OS
 .DS_Store
